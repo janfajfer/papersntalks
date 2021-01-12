@@ -8,7 +8,7 @@
 - a series of blog posts about security vulnerabilities in mobile applications 03 - 06/2019
 - [BA Como Llego](https://www.civilsphereproject.org/blog/2019/4/3/application-ba-como-llego-leaks-data-in-real-time)
  - https://resistiendoconideas.wixsite.com/rciportal/single-post/2019/04/10/BA-C%C3%B3mo-Llego-La-aplicaci%C3%B3n-del-GCBA-filtra-informaci%C3%B3n-privada-de-los-usuarios?fbclid=IwAR3QTm7Oa0-PswNf5ZiMbdNc_AFoqQVvMUWa3M7wUF3XKNaVo2a7ZJwAChY
-  - https://www.revistaque.com/5/nota.php?nota_id=22164
+    - https://www.revistaque.com/5/nota.php?nota_id=22164
 - - https://www.filo.news/actualidad/Polemica-alrededor-de-la-app-BA-Como-Llego-aseguran-que-filtra-datos-personales--20190404-0079.html
 - - https://www.pagina12.com.ar/185176-una-app-apta-para-espionaje
 - - https://www.nueva-ciudad.com.ar/notas/201904/40324-advierten-que-la-app-ba-como-llego-creada-por-el-gcba-filtra-informacion-privada-de-los-usuarios.html
