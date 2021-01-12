@@ -7,9 +7,11 @@
 
 # Talks
 
-## Increasing Efficiency and Accuracy of Encrypted Traffic Analysis Hacktivity 2019 & OpenAlt 2019
+##### Increasing Efficiency and Accuracy of Encrypted Traffic Analysis
+Hacktivity 2019 & OpenAlt 2019
 ### Bad TLS Practices That Create a False Sense of Security
 NIS Summer School 2019
-### Emergency VPN
-Analyzing Mobile Network Traffic to Detect digital threats BSides Liverpool 2019
-How Most Mobile Applications Jeopardize Your Security OWASP Czech Chapter 2019
+### Emergency VPN - Analyzing Mobile Network Traffic to Detect digital threats
+BSides Liverpool 2019
+#### How Most Mobile Applications Jeopardize Your Security
+OWASP Czech Chapter 2019
