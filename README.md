@@ -15,8 +15,9 @@
 
 ### Increasing Efficiency and Accuracy of Encrypted Traffic Analysis
 - [Hacktivity 2019](https://hacktivity.com/) & [OpenAlt 2019](https://www.openalt.cz/2020/)
+- [slides](https://archiv.openalt.org/openalt-cz/2019/slides/frantisek-strasak-jan-fajfer-veronica-valeros-saving-the-world-increasing-efficiency-and-accuracy-of-encrypted-traffic-analysis-of-people-at-risk.pdf)
 ### Bad TLS Practices That Create a False Sense of Security
-- [NIS Summer School 2019](https://nis-summer-school.enisa.europa.eu/)
+- [NIS Summer School 2019](https://nis-summer-school.enisa.europa.eu/2019/index.html#)
 ### Emergency VPN - Analyzing Mobile Network Traffic to Detect digital threats
 - [BSides Liverpool 2019](https://bsidesliverpool.com)
 - [recording](https://www.youtube.com/watch?v=8-4RMuh6-aU)
